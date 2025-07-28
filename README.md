@@ -1,6 +1,5 @@
 
-# Company Financial Performance Analysis & Classification
-
+# Financial Data Analysis and Profitability Classification Using Machine Learning
 This project analyzes financial data of tech companies and builds a machine learning pipeline to study patterns and cluster companies based on financial performance. Later, a supervised learning pipeline is built using a manually engineered target.
 
 ## Features
